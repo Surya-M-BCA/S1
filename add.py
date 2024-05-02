@@ -1,7 +1,8 @@
-a=10-k-m 
+
+a=1
 b=2
 print(a+b)
-c=3
+c=32
 d=4
 print(d-c)
 e=5
